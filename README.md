@@ -27,3 +27,7 @@ The project consists of three main files: **index.html**, which structures the w
 In terms of user experience, the webpage is designed to be **fully responsive**, making it accessible on desktops, tablets, and mobile devices. When the user first opens the webpage, it automatically detects their location and displays the weather. If a user searches for a specific city, the displayed information updates instantly. The webpage offers easy navigation between different weather metrics, forecasts, and AQI levels, providing a comprehensive weather-checking experience.
 
 Overall, the **Responsive Weather Webpage** is a practical and well-designed project that demonstrates real-world **front-end development skills**. The combination of **HTML, CSS, JavaScript, and API integration** results in a smooth and engaging user interface. Future enhancements can include **temperature unit conversion (Celsius to Fahrenheit), hourly forecasts for multiple days, and additional weather metrics like UV index and precipitation probability**. With its **modern UI, functional features, and real-time data updates**, this project serves as an excellent example of how web technologies can be used to create **dynamic and useful applications**.
+
+*OUTPUT* :
+
+![Image](https://github.com/user-attachments/assets/c2c1b581-7a4b-4473-8894-03909b154292)
